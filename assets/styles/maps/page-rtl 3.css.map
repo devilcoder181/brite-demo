@@ -1,0 +1,1 @@
+{"version":3,"sources":["../page-rtl 3.css"],"names":[],"mappings":"AAKA,mBAAmB,gBAAgB,CAAC,qBAAqB,gBAAgB,CAAC","file":"../page-rtl 3.css","sourcesContent":["/** \n * coder_custom_v1 / v2.1 / 2021-08-22 \n */ \n\n\nhtml[dir=rtl] body{text-align:right}html[dir=rtl] body *{letter-spacing:0}\n/*# sourceMappingURL=maps/page-rtl.css.map */"]}
